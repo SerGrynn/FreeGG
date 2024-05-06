@@ -1,5 +1,5 @@
 # FreeGG
-Projet Etna
+Projet Etna React Navigation
  # Pré-requis
  Node.JS, Expo Go, NPM
  # installs NVM (Node Version Manager)
