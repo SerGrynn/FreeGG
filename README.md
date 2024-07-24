@@ -9,15 +9,21 @@ Projet Etna React Navigation
 ```nvm install 20```
 
 # verifies the right Node.js version is in the environment
-```node -v # should print `v20.12.2```
+```node -v # should print `v20.12.2 or above```
 
 # verifies the right NPM version is in the environment
-```npm -v # should print `10.5.0```
+```npm -v # should print `10.5.0 or above```
 
 # Recupérer tout les packages
 ``` npm install ```
 
+# Mettre à jour la version expo SDK
+``` npm install expo@latest ```
+
+# npx expo install --fix
+``` npx expo install --fix ```
+
 # Comment lancer le projet
- ``` expo start ```
+ ``` npm start ```
 
 Scanner le QR Code
